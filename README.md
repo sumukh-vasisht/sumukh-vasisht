@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Sumukh Vasisht
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-%23FF6F00.svg?style=for-the-badge" alt="Lead Data Scientist" />
+  <img src="https://img.shields.io/badge/Lead%20Data%20Scientist-%23FF6F00.svg?style=for-the-badge" alt="Lead Data Scientist" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Cloud-%23039BE5.svg?style=for-the-badge" alt="Cloud" />
